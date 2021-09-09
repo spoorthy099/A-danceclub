@@ -1,0 +1,33 @@
+table ,tr,td{
+    background-color: lightgrey;
+    width: 50px;
+    border: 5px ;
+    padding: 50px;
+    margin: 20px;
+    
+  }
+  .ScrollStyle{
+    max-height: 100px;
+    max-width: 200px;
+    overflow-x:hidden;
+    overflow-y: scroll;
+  }
+  /*
+  .main{
+    border-style: solid;
+    background-color: blue;
+    width: 50px;
+    border: 5px ;
+    padding: 50px;
+    margin: 20px;
+  }*/
+  
+  
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .custom-select select {
+    display: none; /*hide original SELECT element:*/
+  }
+  
+  
